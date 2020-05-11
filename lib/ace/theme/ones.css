@@ -33,16 +33,16 @@
 .ace-ones .ace_function {
   color: blue;
 }
-/* .ace-ones .ace_gutter {
+.ace-ones .ace_gutter {
   background: #ebebeb;
   border-right: 1px solid rgb(159, 159, 159);
   color: rgb(136, 136, 136);
-} */
+}
 
-/* .ace-ones .ace_print-margin {
+.ace-ones .ace_print-margin {
   width: 1px;
   background: #ebebeb;
-} */
+}
 
 
 
@@ -56,34 +56,34 @@
 
 
 
-/* .ace-ones .ace_constant.ace_buildin {
+.ace-ones .ace_constant.ace_buildin {
   color: rgb(88, 72, 246);
-} */
+}
 
-/* .ace-ones .ace_constant.ace_library {
+.ace-ones .ace_constant.ace_library {
   color: rgb(6, 150, 14);
-} */
+}
 
-/* .ace-ones .ace_comment.ace_doc {
+.ace-ones .ace_comment.ace_doc {
   color: rgb(63, 95, 191);
-} */
+}
 
-/* .ace-ones .ace_comment.ace_doc.ace_tag {
+.ace-ones .ace_comment.ace_doc.ace_tag {
   color: rgb(127, 159, 191);
-} */
+}
 
 
-/* .ace-ones .ace_tag {
+.ace-ones .ace_tag {
   color: rgb(25, 118, 116);
-} */
+}
 
-/* .ace-ones .ace_type {
+.ace-ones .ace_type {
   color: rgb(127, 0, 127);
-} */
+}
 
-/* .ace-ones .ace_xml-pe {
+.ace-ones .ace_xml-pe {
   color: rgb(104, 104, 91);
-} */
+}
 
 .ace-ones .ace_marker-layer .ace_selection {
   background: rgb(181, 213, 255);
@@ -102,9 +102,9 @@
   color: #ddd;
 }
 
-/* .ace-ones .ace_entity.ace_other.ace_attribute-name {
+.ace-ones .ace_entity.ace_other.ace_attribute-name {
   color:rgb(127, 0, 127);
-} */
+}
 .ace-ones .ace_marker-layer .ace_step {
   background: rgb(255, 255, 0);
 }
